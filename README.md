@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋  
+## This is TalexCK's Github Homepage!!!  
+Now I'm working on ChineseChess and poker510k  
+
+### THIS IS MEEEEEE!
 
 <!--
 **TalexCalexK0133/TalexCalexK0133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
